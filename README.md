@@ -1,6 +1,6 @@
 # 🎁 Sorteador de Amigo Secreto
 
-Um pequeno e divertido projeto para realizar sorteios de Amigo Secreto diretamente no navegador. Adicione os nomes dos participantes, clique em "Sortear" e o resultado aparece na hora — sem que ninguém tire a si mesmo. É simples, rápido e não precisa de nenhuma instalação!
+Nosso sorteador de Amigo Secreto é a solução perfeita para a sua festa. Sem complicações e direto no seu navegador, basta inseir os nomes dos participantes, e com um clique, o sorteio é feito na hora! O sistema garante que ninguém tire a si mesmo, e você não precisa baixar nem instalar nada. Ideal para quem busca praticidade e diversão!
 
 ---
 
@@ -20,7 +20,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (ES6+)**
+- **JavaScript**
 
 ---
 
