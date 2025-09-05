@@ -2,8 +2,6 @@
 
 Um pequeno e divertido projeto para realizar sorteios de Amigo Secreto diretamente no navegador. Adicione os nomes dos participantes, clique em "Sortear" e o resultado aparece na hora — sem que ninguém tire a si mesmo. É simples, rápido e não precisa de nenhuma instalação!
 
-![Banner ou Screenshot do projeto - Você pode adicionar uma imagem aqui para ilustrar](https://via.placeholder.com/600x300)
-
 ---
 
 ## 🚀 Funcionalidades
