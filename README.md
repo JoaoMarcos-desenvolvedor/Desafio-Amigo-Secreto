@@ -4,6 +4,12 @@ Nosso sorteador de Amigo Secreto é a solução perfeita para a sua festa. Sem c
 
 ---
 
+## 🔗 Ver o Projeto
+
+-   **[Clique aqui para ver a demo online](https://desafio-amigo-secreto-liart.vercel.app/)**
+
+---
+
 ## 🚀 Funcionalidades
 
 - **Validação de Nomes:** O campo de entrada de nomes aceita apenas letras e espaços, bloqueando automaticamente a inserção de números e caracteres especiais.
