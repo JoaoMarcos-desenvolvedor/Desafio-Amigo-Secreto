@@ -38,8 +38,3 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 Contribuições são sempre bem-vindas! Se você tiver alguma ideia para melhorar o projeto, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
 
----
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Para mais detalhes, veja o arquivo `LICENSE`.
